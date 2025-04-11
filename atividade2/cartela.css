@@ -1,6 +1,6 @@
-body, html{
-    background-color: aliceblue;
-    margin: 0;
+body, html {
+    background-color: #cccccc;
+    margin:0;
     padding: 0;
     height: 100%;
     display: flex;
@@ -8,9 +8,9 @@ body, html{
     align-items: center;
 }
 
-.tb{
-    background-color: aliceblue;
-    border:5px double rgb(0, 0, 0) ;
+.tabela{
+    background-color: #FFFFFF;
+    border:5px double #000;
     font-size: 50px;
     padding: 5px 8px;
 }
